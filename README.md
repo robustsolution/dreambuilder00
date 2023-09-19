@@ -1,11 +1,11 @@
-<h1 align="center" style="color: #FF0000;">💫 Blue is my Colour 💫</h1> 
+<h1 align="center" style="color: #FF0000;">💫 Crazy is just my World 💫</h1> 
 
 <!--<h2 align="left">About Me</h2> !-->
 
 ### <h2 align="left">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluegeniusdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluegeniusdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazynavi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazynavi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 ### <h2 align="left">Tech & Tools</h2>
