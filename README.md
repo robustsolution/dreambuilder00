@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" title="Kotlin" />
   <img width="18" />
 </div>
+<br/>
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" title="Javascript" alt="javascript logo"  />
   <img width="12" />
@@ -49,6 +50,7 @@
   <img src="https://cdn.simpleicons.org/electron/47848F" height="40" title="Electron" alt="electron logo"  />
   <img width="12" />
 </div>
+<br/>
 <div align="center">
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" title="Firebase" alt="firebase logo"  />
   <img width="18" />
