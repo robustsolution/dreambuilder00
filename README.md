@@ -6,8 +6,8 @@
 <h2 align="center">Development || Design || Android & iOS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crazynavi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazynavi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreambuilder00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambuilder00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 <h2 align="center">🛠️ Technical Skills</h2>
