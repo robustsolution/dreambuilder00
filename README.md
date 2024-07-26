@@ -2,8 +2,8 @@
 <br>
 <h1 align="center">👋 Passionate Is Just My World 👋</h1>
 
-<h2 align="center">Mobile Solution </h2>
-<h2 align="center">Development || Design || Android & iOS</h2>
+<h2 align="center">Full Stack Solution </h2>
+<h2 align="center">Web || Integration || Android & iOS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dreambuilder00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
